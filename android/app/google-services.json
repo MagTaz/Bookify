@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000804428461",
+    "project_id": "recommendation-e4436",
+    "storage_bucket": "recommendation-e4436.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000804428461:android:a40cf7166fc84c78a53424",
+        "android_client_info": {
+          "package_name": "com.example.recommendation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd4KPl6cE0B9TnCejL5JSeyISzBdCy_Ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
