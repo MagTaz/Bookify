@@ -1,4 +1,4 @@
-# 📚 Book Recommendation & Rental App - Flutter
+# 📚 Bookify App - Flutter
 
 This Flutter application is a full-featured **Book Recommendation and Rental System** built for a technical challenge. It supports both user and admin roles and uses Firebase for backend functionality.
 
